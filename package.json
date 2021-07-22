@@ -1,7 +1,7 @@
 {
-  "name": "react-itune-search",
+  "name": "reactjs-itune-app",
   "version": "1.0.0",
-  "description": "React ITune search- using Redux",
+  "description": "React ITune app- using Redux",
   "main": "index.js",
   "dependencies": {
     "axios": "0.16.2",
