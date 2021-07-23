@@ -106,7 +106,7 @@
       .artists-card .image-poster.artists-preview-show:before, .artists-card .image-poster:hover:before {
         width: 100%;
         height: 100%;
-        background: rgba(0, 0, 0, 0.6);
+        background: rgba(15, 201, 214, 0.356);
         position: absolute;
         content: '';
         left: 0;
@@ -124,7 +124,7 @@
       z-index: 10;
       top: 50%;
       display: inline-block;
-      background: #000;
+      background: rgb(49, 51, 207);
       padding: .5rem 1rem;
       color: #fff;
       border-radius: .2rem;
@@ -169,7 +169,7 @@
   .artists-card .artists-holder {
     margin-top: 2rem;
     padding: .5rem;
-    background: #2e2e2e;
+    background: #5f2958;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23); }
     @media only screen and (max-width: 479px) {
       .artists-card .artists-holder {

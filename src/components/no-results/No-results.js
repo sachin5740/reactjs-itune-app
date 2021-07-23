@@ -10,7 +10,7 @@ class NoResults extends Component {
     }
 
     render() {
-        let nothingToShowText = 'I don\'t have to show anything to anyone, There is nothing to prove.'
+        let nothingToShowText = 'Please write the song name on the search box and press enter, you can search the song you like or your favorite.'
         return (
             <div className="no-results">
                 <h1>{nothingToShowText}</h1>
